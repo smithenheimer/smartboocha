@@ -1,13 +1,13 @@
-wifi_id = 'wifi_id'
-wifi_pw = 'wifi_pw'
+wifi_id = '<WIFI_ID>'
+wifi_pw = '<WIFI_PW>'
 
 key = 'kombucha_sensor'
-mqtt_server = 'mqtt_ip'
+mqtt_server = '<MQTT_IP>'
 mqtt_path = 'home-assistant/env/kombucha'
 auth = {
-    'user':'mqtt_user',
-    'pw':'mqtt_pw'
+    'user':'<MQTT_USER>',
+    'pw':'<MQTT_PW>'
 }
 
-webrepl_pw = 'webrepl_pw'
+webrepl_pw = 'smartboocha'
 refresh_delay = 5
